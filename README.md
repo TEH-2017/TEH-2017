@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TEH-2017
+- 👋 Hi, "I’m The Embedded Hobbyist" @TEH-2017
 - 👀 I’m interested in embedded electronics and Radio
-- 🌱 I can be found on YouTube as https://www.youtube.com/c/TheEmbeddedHobbyist
+- 🌱 My YouTube challed https://www.youtube.com/c/TheEmbeddedHobbyist
 - 
 - 📫 How to reach me ... TEH_20017.outlook.com
 
